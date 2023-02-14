@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "blvhIBj54T8GlgVtBhjwITvhlGoD2Pfa1Xj4PJp+auHt0xUMXhR4TjhwEcftFUcxuIkg8+dK9aTpyJzhqoa+qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a.gervelis\\Desktop\\file uploadv2\\FileUpload\\FileUpload\\FileUpload.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.gervelis\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\a.gervelis\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512",
+    "C:\\Users\\a.gervelis\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\a.gervelis\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\a.gervelis\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
